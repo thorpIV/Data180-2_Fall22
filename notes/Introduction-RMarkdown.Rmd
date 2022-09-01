@@ -9,7 +9,6 @@ editor_options:
 
 # `.Rmd` documents
 
-**Text**
 
 R-studio makes is possible to use RMarkdown within the same IDE. RMarkdown is derivation of Markdown, which is a markup language that is a superset of HTML. RMarkdown enables create documents (or even standalone webpages!) that include text, code and visualization. While it is possible to work with typical `R` scripts, we will work with RMarkdown in order to be able to create standalone output (more on that later).
 
